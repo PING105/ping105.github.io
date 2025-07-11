@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Yuping&#x27;s repo</title>
+    <link href="https://ping105.github.io/feed.xml" rel="self" />
+    <link href="https://ping105.github.io" />
+    <updated>1970-01-01T08:00:00+08:00</updated>
+    <author>
+        <name>Yuping Z</name>
+    </author>
+    <id>https://ping105.github.io</id>
+
+</feed>

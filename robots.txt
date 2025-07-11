@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ping105.github.io/sitemap.xml

@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Yuping&#x27;s repo",
+    "description": "",
+    "home_page_url": "https://ping105.github.io",
+    "feed_url": "https://ping105.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Yuping Z"
+    },
+    "items": [
+    ]
+}
