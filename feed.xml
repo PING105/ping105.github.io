@@ -3,7 +3,7 @@
     <title>🔙主页</title>
     <link href="https://ping105.github.io/feed.xml" rel="self" />
     <link href="https://ping105.github.io" />
-    <updated>2025-07-12T15:48:05+08:00</updated>
+    <updated>2025-07-12T16:44:51+08:00</updated>
     <author>
         <name>Yuping Z</name>
     </author>
@@ -97,7 +97,7 @@
         </content>
     </entry>
     <entry>
-        <title>作品集（1）</title>
+        <title>影视作品集_1</title>
         <author>
             <name>Yuping Z</name>
         </author>
@@ -122,8 +122,8 @@
 <p><span style="color: #f98b07;">片名：《苍耳</span><br><span style="color: #f98b07;">职务：编剧/导演</span><br>成果：入围 Lisbon Monthly Film Festival | Roma Prisma Film Awards | Nukhu (Archived) | Life-Off Filmmaker | Eurasia International Monthly Film Festival</p>
 <p>出生在一个传统家庭的子苹，一直受到限制，难以追逐自己的摄影梦想。在坚持追梦的过程中，她意外发现了哥哥与那个她暗恋男孩之间的秘密</p>
 <p>Born in a traditional family, Zi Ping was restricted to pursuing her photography dream. While continuing fulfilling her dream, she accidentally found the secret between her elder brother and the boy she adored.</p>
-<!-- 哔哩哔哩视频响应式嵌入，自动适配手机电脑 -->
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;"><div class="post__iframe"><iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://player.bilibili.com/player.html?isOutside=true&amp;aid=114816052104072&amp;bvid=BV1ZCG7zFEa2&amp;cid=30915035168&amp;p=1&amp;autoplay=0" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen">
+<!-- 哔哩哔哩视频响应式嵌入，兼容 GitHub Pages，自动适配手机和电脑 -->
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;"><div class="post__iframe"><iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" src="https://www.ibilibili.com/player.html?bvid=BV1ZCG7zFEa2&amp;p=1&amp;autoplay=0" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen">
   </iframe></div></div>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="添加图片" data-columns="3">
 <figure class="gallery__item"><a href="https://ping105.github.io/media/posts/6/gallery/154.JPEG" data-size="1440x1080"><img loading="lazy" src="https://ping105.github.io/media/posts/6/gallery/154-thumbnail.JPEG" alt="" width="768" height="576"></a></figure>
